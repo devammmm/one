@@ -1,9 +1,5 @@
-#include<stdio.h>
-int main(){
-int a,b;
-printf("enter the values of a and b");
-scanf("%d %d",&a,&b);
-printf("%d",a+b);
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
 }
-
-
